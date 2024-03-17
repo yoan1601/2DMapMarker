@@ -401,7 +401,101 @@ const touristSites = [
             "url": "https://www.youtube.com/watch?v=pBoM2FoX6Vc"
         }
     ]
+  },
+  {
+    "id": 8,
+    "country": "Russia",
+    "sites": [
+      {
+        "label": "Saint Basil's Cathedral",
+        "description": "A iconic landmark in Moscow's Red Square, renowned for its colorful onion domes and unique architecture.",
+        "url": "https://youtu.be/r-qmFl0AAHY?si=Af1b2yyfNy1sv4bw"
+      },
+      {
+        "label": "Hermitage Museum",
+        "description": "One of the largest and oldest museums in the world, located in Saint Petersburg and home to a vast collection of art and artifacts, including works by Rembrandt, Leonardo da Vinci, and Michelangelo.",
+        "url": "https://youtu.be/pz6B1mkV1gw?si=wesZxmrBOzuxFyCh"
+      },
+      {
+        "label": "Lake Baikal",
+        "description": "The deepest and oldest freshwater lake in the world, known for its crystal-clear waters, stunning landscapes, and unique biodiversity.",
+        "url": "https://youtu.be/SAcReQHYnuE?si=IdNM9b3Ym3yZINdk"
+      },
+      {
+        "label": "Trans-Siberian Railway",
+        "description": "The longest railway line in the world, stretching over 9,000 kilometers from Moscow to Vladivostok, offering breathtaking views of Russia's diverse landscapes.",
+        "url": "https://youtu.be/1NtdmNVNosA?si=cM32rcEFf4YUOzRv"
+      },
+      {
+        "label": "Kremlin and Red Square",
+        "description": "The historic heart of Moscow, home to the Kremlin, a fortified complex housing government buildings and cathedrals, and Red Square, a UNESCO World Heritage Site.",
+        "url": "https://youtu.be/3teySTsfc6U?si=hl71nT8z0fX2lrLs"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "country": "China",
+    "sites": [
+      {
+        "label": "Great Wall of China",
+        "description": "One of the most iconic landmarks in the world, stretching over 13,000 miles and dating back over 2,000 years, offering breathtaking views of the Chinese landscape.",
+        "url": "https://youtu.be/BUFLNJBj-KY?si=53ZlAR7UTmd7MC_v"
+      },
+      {
+        "label": "Forbidden City",
+        "description": "A UNESCO World Heritage Site and one of the largest palace complexes in the world, located in Beijing and known for its magnificent architecture and historical significance.",
+        "url": "https://youtu.be/R9vcSWb6mug?si=zvJdnKwW7iUUtdpi"
+      },
+      {
+        "label": "Terracotta Army",
+        "description": "A collection of life-sized terracotta sculptures depicting the armies of Qin Shi Huang, the first Emperor of China, buried with the emperor to protect him in the afterlife.",
+        "url": "https://youtu.be/4c_ADqshdSA?si=vaW4h3DsNRgjFlh-"
+      },
+      {
+        "label": "Li River",
+        "description": "Renowned for its stunning karst landscape, with towering limestone peaks, lush vegetation, and picturesque villages, offering unforgettable river cruises and scenic hikes.",
+        "url": "https://youtu.be/ROFmtJLCq1k?si=W-PHX_N9y1SjRl1R"
+      },
+      {
+        "label": "Potala Palace",
+        "description": "The former residence of the Dalai Lama in Lhasa, Tibet, known for its grand architecture, intricate artwork, and religious significance as a symbol of Tibetan Buddhism.",
+        "url": "https://youtu.be/baK3X5Oozh4?si=9-mQ5f9UkbC9RmO-"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "country": "Australia",
+    "sites": [
+      {
+        "label": "Sydney Opera House",
+        "description": "An iconic symbol of Australia, renowned for its distinctive sail-like design and hosting various performing arts events, located in Sydney Harbour.",
+        "url": "https://youtu.be/iuh5IC-VjuA?si=XWJqaFj8Zc8Ktf86"
+      },
+      {
+        "label": "Great Barrier Reef",
+        "description": "The largest coral reef system in the world, stretching over 2,300 kilometers along the Queensland coast, known for its vibrant marine life and stunning underwater landscapes.",
+        "url": "https://youtu.be/DtFxKSH21Qw?si=MO1z_oKGNws8XIG2"
+      },
+      {
+        "label": "Uluru (Ayers Rock)",
+        "description": "A UNESCO World Heritage Site and one of Australia's most recognizable natural landmarks, a massive sandstone monolith known for its spiritual significance to indigenous Australians.",
+        "url": "https://youtu.be/6igaTpl9phQ?si=IihCkcqB-iTqdyVg"
+      },
+      {
+        "label": "Great Ocean Road",
+        "description": "One of the world's most scenic coastal drives, offering breathtaking views of rugged cliffs, pristine beaches, and iconic rock formations such as the Twelve Apostles.",
+        "url": "https://youtu.be/uxaR9UvoND4?si=pMlhNeE4LqtFkMWV"
+      },
+      {
+        "label": "Kakadu National Park",
+        "description": "A UNESCO World Heritage Site and Australia's largest national park, known for its diverse ecosystems, ancient rock art, and abundant wildlife, including crocodiles and birds.",
+        "url": "https://youtu.be/gark248t8RQ?si=sgE_5DS5iEc1fk2e"
+      }
+    ]
   }
+  
 
 ];
 
