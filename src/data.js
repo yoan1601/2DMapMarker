@@ -104,6 +104,114 @@ const touristSites = [
     ],
   },
   {
+    id: 6,
+    country: "England",
+    sites: [
+      {
+        label: "Tower of London",
+        description:
+          "The Tower of London is a historic castle located on the north bank of the River Thames. It has served variously as a royal palace, prison, and fortress, and is home to the Crown Jewels of the United Kingdom.",
+        url: "https://www.youtube.com/watch?v=UJdYOcDfatI",
+      },
+      {
+        label: "Stonehenge",
+        description:
+          "Stonehenge is a prehistoric monument in Wiltshire, England, consisting of a ring of standing stones. It is one of the most famous landmarks in the world and remains a mystery regarding its purpose and construction.",
+        url: "https://www.youtube.com/watch?v=2gxoAj7Nz28",
+      },
+      {
+        label: "Buckingham Palace",
+        description:
+          "Buckingham Palace is the official residence and administrative headquarters of the monarch of the United Kingdom. It has been the focal point for the British people at times of national rejoicing and mourning.",
+        url: "https://www.youtube.com/watch?v=-sIFAYakyLE",
+      },
+      {
+        label: "Big Ben",
+        description:
+          "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London. The tower is one of the most prominent symbols of the United Kingdom and is often used in films and television shows.",
+        url: "https://www.youtube.com/watch?v=_Elffjsjbio",
+      },
+      {
+        label: "The British Museum",
+        description:
+          "The British Museum in London is a public institution dedicated to human history, art, and culture. Its permanent collection of some eight million works is among the largest and most comprehensive in existence.",
+        url: "https://www.youtube.com/watch?v=-eqTA-qNT_8",
+      },
+    ],
+  },
+  {
+    id: 7,
+    country: "India",
+    sites: [
+      {
+        label: "Taj Mahal",
+        description:
+          "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal.",
+        url: "https://www.youtube.com/watch?v=49HTIoCccDY",
+      },
+      {
+        label: "Golden Temple (Harmandir Sahib)",
+        description:
+          "The Harmandir Sahib, also known as the Golden Temple, is a Gurdwara located in the city of Amritsar, Punjab, India. It is one of the most revered spiritual sites of Sikhism and is considered the holiest Gurdwara and the most important pilgrimage site of Sikhism.",
+        url: "https://www.youtube.com/watch?v=jA7NhLxv29g",
+      },
+      {
+        label: "Jaipur's Amber Fort",
+        description:
+          "Amber Fort is a fort located in Amer, Rajasthan, India. Amer is a town with an area of 4 square kilometers located 11 kilometers from Jaipur, the capital of Rajasthan. Located high on a hill, it is the principal tourist attraction in Jaipur.",
+        url: "https://www.youtube.com/watch?v=4MxVHXv3IQ0",
+      },
+      {
+        label: "Qutub Minar",
+        description:
+          "Qutub Minar is a minaret and 'victory tower' that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India. The Qutb Minar is 73 meters tall and is one of the most famous examples of Indo-Islamic architecture.",
+        url: "https://www.youtube.com/watch?v=J7nmPBAE2X8",
+      },
+      {
+        label: "Mehrangarh Fort in Jodhpur",
+        description:
+          "Mehrangarh Fort, located in Jodhpur, Rajasthan, is one of the largest forts in India. Built around 1460 by Rao Jodha, the fort is situated 410 feet above the city and is enclosed by imposing thick walls.",
+        url: "https://www.youtube.com/watch?v=Keg7icC56Sg",
+      },
+    ],
+  },
+  {
+    id: 9,
+    country: "Egypt",
+    sites: [
+      {
+        label: "Great Pyramids of Giza",
+        description:
+          "The Great Pyramids of Giza are ancient monuments located on the Giza Plateau near Cairo. They are among the Seven Wonders of the Ancient World and are the only ones to remain largely intact. The largest pyramid, known as the Great Pyramid, was built for Pharaoh Khufu.",
+        url: "https://www.youtube.com/watch?v=dWq0iC4YqbE",
+      },
+      {
+        label: "Karnak Temple Complex",
+        description:
+          "The Karnak Temple Complex comprises a vast mix of decayed temples, chapels, pylons, and other buildings near Luxor, Egypt. It was the main place of worship of the eighteenth dynasty Theban Triad with the god Amun as its head.",
+        url: "https://www.youtube.com/watch?v=9_6inr3KLx0",
+      },
+      {
+        label: "Valley of the Kings",
+        description:
+          "The Valley of the Kings is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC, rock-cut tombs were excavated for the pharaohs and powerful nobles of the New Kingdom (the Eighteenth to the Twentieth Dynasties of Ancient Egypt).",
+        url: "https://www.youtube.com/watch?v=5kP4fGglFxk",
+      },
+      {
+        label: "Abu Simbel Temples",
+        description:
+          "The Abu Simbel temples are two massive rock temples at Abu Simbel, a village in Nubia, southern Egypt, near the border with Sudan. They are part of the UNESCO World Heritage Site known as the 'Nubian Monuments.'",
+        url: "https://www.youtube.com/watch?v=67xGeUnS0GA",
+      },
+      {
+        label: "Egyptian Museum in Cairo",
+        description:
+          "The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum or Museum of Cairo, is home to an extensive collection of ancient Egyptian antiquities. It has 120,000 items, with a representative amount on display and the remainder in storerooms.",
+        url: "https://www.youtube.com/watch?v=SBiFpENm56c",
+      },
+    ],
+  },
+  {
     id: 3,
     country: "Japan",
     sites: [
