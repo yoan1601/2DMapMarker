@@ -197,7 +197,7 @@ const touristSites = [
         {
             "label": "Avenue of the Baobabs",
             "description": "A stunning row of ancient baobab trees lining a dirt road in western Madagascar, making for a unique and picturesque landscape.",
-            "url": "https://www.youtube.com/watch?v=7D1Y0dA1xl0"
+            "url": "https://www.youtube.com/watch?v=Eq5BhVfKwio"
         }
     ]
   },
