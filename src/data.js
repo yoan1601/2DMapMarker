@@ -139,6 +139,162 @@ const touristSites = [
       },
     ],
   },
+  {
+    "id": 2,
+    "country": "United States",
+    "sites": [
+        {
+            "label": "Yellowstone National Park",
+            "description": "Famous for its geothermal features like Old Faithful geyser, wildlife, and stunning landscapes.",
+            "url": "https://www.youtube.com/watch?v=7OMxBlK46wY"
+        },
+        {
+            "label": "Statue of Liberty",
+            "description": "A symbol of freedom and democracy, located on Liberty Island in New York Harbor, offering panoramic views of New York City.",
+            "url": "https://www.youtube.com/watch?v=siZ0odTEBgk"
+        },
+        {
+            "label": "Walt Disney World Resort",
+            "description": "One of the most visited vacation resorts in the world, featuring four theme parks, two water parks, and numerous hotels and entertainment venues.",
+            "url": "https://www.youtube.com/watch?v=_weVwAhe9jI"
+        },
+        {
+            "label": "Golden Gate Bridge",
+            "description": "An iconic suspension bridge spanning the Golden Gate Strait, connecting San Francisco to Marin County, and offering stunning views of the bay area.",
+            "url": "https://www.youtube.com/watch?v=C8ZwEbhrco0"
+        },
+        {
+            "label": "Yosemite National Park",
+            "description": "Renowned for its granite cliffs, waterfalls, giant sequoia groves, and diverse ecosystems, Yosemite is a UNESCO World Heritage Site and a haven for outdoor enthusiasts.",
+            "url": "https://www.youtube.com/watch?v=9fJEFi3ccwI"
+        }
+    ]
+  },
+  {
+    "id": 4,
+    "country": "Madagascar",
+    "sites": [
+        {
+            "label": "Isalo National Park",
+            "description": "Known for its unique sandstone formations, deep canyons, oases, and diverse wildlife, Isalo offers opportunities for hiking, trekking, and wildlife spotting.",
+            "url": "https://www.youtube.com/watch?v=b6utFeio3TA"
+        },
+        {
+            "label": "Ranomafana National Park",
+            "description": "A biodiversity hotspot with lush rainforests, natural hot springs, and diverse wildlife, including lemurs, chameleons, and rare bird species.",
+            "url": "https://www.youtube.com/watch?v=gh7muXMqDmc"
+        },
+        {
+            "label": "Tsingy de Bemaraha National Park",
+            "description": "A UNESCO World Heritage Site featuring dramatic limestone formations, deep canyons, and unique flora and fauna, including the famous lemurs and baobab trees.",
+            "url": "https://www.youtube.com/watch?v=4ZkxIAj2zc0"
+        },
+        {
+            "label": "Nosy Be",
+            "description": "A tropical paradise known for its pristine beaches, coral reefs, and marine biodiversity, offering opportunities for snorkeling, diving, and relaxation.",
+            "url": "https://www.youtube.com/watch?v=0qLap8_KjTg"
+        },
+        {
+            "label": "Avenue of the Baobabs",
+            "description": "A stunning row of ancient baobab trees lining a dirt road in western Madagascar, making for a unique and picturesque landscape.",
+            "url": "https://www.youtube.com/watch?v=7D1Y0dA1xl0"
+        }
+    ]
+  },
+  {
+    "id": 5,
+    "country": "Brazil",
+    "sites": [
+        {
+            "label": "Iguazu Falls",
+            "description": "One of the most spectacular waterfalls in the world, situated on the border between Brazil and Argentina, surrounded by lush rainforests and offering breathtaking views.",
+            "url": "https://www.youtube.com/watch?v=kY5G8s99Fl8"
+        },
+        {
+            "label": "Sugarloaf Mountain (Pão de Açúcar)",
+            "description": "A granite peak rising 396 meters above the harbor, offering panoramic views of Rio de Janeiro and its iconic beaches, forests, and monuments.",
+            "url": "https://www.youtube.com/watch?v=Kk1mkI_1S10"
+        },
+        {
+            "label": "Amazon Rainforest",
+            "description": "The world's largest tropical rainforest, home to an incredible array of biodiversity, indigenous communities, and unique ecosystems.",
+            "url": "https://www.youtube.com/watch?v=5IzzogrKo6k"
+        },
+        {
+            "label": "Fernando de Noronha",
+            "description": "An archipelago known for its pristine beaches, crystal-clear waters, and rich marine life, offering excellent diving and snorkeling opportunities.",
+            "url": "https://www.youtube.com/watch?v=F9T4wXgnX18"
+        },
+        {
+            "label": "Christ the Redeemer",
+            "description": "A massive Art Deco statue of Jesus Christ atop Corcovado Mountain in Rio de Janeiro, offering breathtaking views of the city and surrounding landscape.",
+            "url": "https://www.youtube.com/watch?v=k_615AauSds"
+        }
+    ]
+  },
+  {
+    "id": 12,
+    "country": "Canada",
+    "sites": [
+        {
+            "label": "Banff National Park",
+            "description": "Located in the Canadian Rockies, it offers majestic mountain scenery, pristine lakes, and abundant wildlife, making it a paradise for outdoor enthusiasts.",
+            "url": "https://www.youtube.com/watch?v=TJohEDj0KPk"
+        },
+        {
+            "label": "Niagara Falls",
+            "description": "One of the most famous natural attractions in the world, comprising three waterfalls on the border between Canada and the United States, offering boat tours and stunning views.",
+            "url": "https://www.youtube.com/watch?v=ufZoZzDjjzE"
+        },
+        {
+            "label": "Jasper National Park",
+            "description": "Known for its stunning alpine landscapes, glaciers, and abundant wildlife, Jasper offers opportunities for hiking, wildlife viewing, and stargazing.",
+            "url": "https://www.youtube.com/watch?v=S-nPtdu9FpI"
+        },
+        {
+            "label": "CN Tower",
+            "description": "An iconic symbol of Toronto's skyline, offering panoramic views of the city and Lake Ontario from its observation deck and revolving restaurant.",
+            "url": "https://www.youtube.com/watch?v=KB8iv6HxEXg"
+        },
+        {
+            "label": "Whistler Blackcomb",
+            "description": "One of the largest and most famous ski resorts in North America, offering world-class skiing and snowboarding in the winter and mountain biking and hiking in the summer.",
+            "url": "https://www.youtube.com/watch?v=65u3juMAlSg"
+        }
+    ]
+  },
+  {
+    "id": 13,
+    "country": "Côte d'Ivoire",
+    "sites": [
+        {
+            "label": "Basilica of Our Lady of Peace",
+            "description": "Located in Yamoussoukro, it is one of the largest Christian churches in the world, known for its stunning architecture and serene surroundings.",
+            "url": "https://www.youtube.com/watch?v=qrcfPdTRu0M"
+        },
+        {
+            "label": "Tai National Park",
+            "description": "A UNESCO World Heritage Site and one of the last remaining areas of primary tropical rainforest in West Africa, home to diverse wildlife, including chimpanzees and rare bird species.",
+            "url": "https://www.youtube.com/watch?v=87ZTd3KZTrE"
+        },
+        {
+            "label": "Grand-Bassam",
+            "description": "A historic town known for its colonial architecture, sandy beaches, and vibrant culture, designated as a UNESCO World Heritage Site.",
+            "url": "https://www.youtube.com/watch?v=EFPI24vV8vA"
+        },
+        {
+            "label": "Comoe National Park",
+            "description": "The largest protected area in West Africa, known for its diverse ecosystems, including savannas, forests, and wetlands, and its populations of elephants, hippos, and crocodiles.",
+            "url": "https://www.youtube.com/watch?v=efpxRtMn2UE"
+        },
+        {
+            "label": "Banco National Park",
+            "description": "Located near Abidjan, it is a protected area comprising tropical rainforest, mangroves, and wetlands, offering opportunities for birdwatching and nature walks.",
+            "url": "https://www.youtube.com/watch?v=pBoM2FoX6Vc"
+        }
+    ]
+  }
+
 ];
 
 export { markers, touristSites };
