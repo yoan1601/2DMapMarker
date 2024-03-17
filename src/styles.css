@@ -1,0 +1,50 @@
+.row {
+  margin: auto;
+  width: 70%;
+  margin-bottom: 2vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid 1px rgb(43, 58, 77);
+}
+
+.col-md-6 {
+  width: 50%;
+}
+
+.col-md-4 {
+  width: 30%;
+}
+
+html {
+    font-family: system-ui, sans-serif;
+    font-size: 1.25rem;
+  }
+  
+  body {
+    margin: 0;
+    background-color: #2a354d;
+  }
+  
+  svg {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  path {
+    fill: #a1b1d3;
+  }
+  
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .marker-label {
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .marker:hover .marker-label {
+    opacity: 1;
+  }
